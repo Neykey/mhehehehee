@@ -9,8 +9,7 @@
          "otanrobot"
       ],
     
-   "logo":    "https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg",  
-   "repository": "https://github.com/OTANCABUL/OtanRobot",
+   "logo":    "https://telegrahttps://github.com/Neykey/mhehehehee",
    "addons": [
           {
          "options": {
@@ -164,7 +163,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://t.me/"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
